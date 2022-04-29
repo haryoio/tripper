@@ -1,9 +1,6 @@
 #define _GNU_SOURCE
 
 #include<crypt.h>
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
 
 #define NAMELEN 10
 
