@@ -11,7 +11,7 @@ bytes = "1.1.0"
 des = "0.0.4"
 encoding_rs = "0.8.31"
 libc = "0.2.124"
-magic-crypt = "3.1.10"
+magic-crypt = "4.0.0"
 pwhash = { path = "../pwhash" }
 regex = "1.5.5"
 rust-crypto = "0.2.36"
